@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset
+="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Cumpleaños Mi Amor</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #ffcccb;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        .mensaje {
+            font-size: 24px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            animation: aparecer 2s ease-in-out;
+        }
+        @keyframes aparecer {
+            0% { opacity: 0; transform: scale(0.8); }
+            100% { opacity: 1; transform: scale(1); }
+        }
+    </style>
+</head>
+<body>  
+    <div class="mensaje">          
+        <h1>🎉 ¡Feliz Cumpleaños, mi amor! 🎉</h1>
+        <p>Te amo muchísimo ❤️</p>
+    </div>
+</body>
+</html>
