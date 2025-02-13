@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset
-="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feliz Cumpleaños Mi Amor</title>
     <style>
@@ -29,10 +28,10 @@
         }
     </style>
 </head>
-<body>  
-    <div class="mensaje">          
-        <h1>🎉 ¡Feliz Cumpleaños, mi amor! 🎉</h1>
-        <p>Te amo muchísimo ❤️</p>
+<body>
+    <div class="mensaje">
+        <h1>🎉 ¡Feliz Cumpleaños, Mi Amorrr! 🎉</h1>
+        <p>Te desea tu novio Cesar ❤️</p>
     </div>
 </body>
 </html>
